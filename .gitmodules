@@ -1,0 +1,3 @@
+[submodule "conduit-bootstrap-template"]
+	path = src/conduit-bootstrap-template
+	url = https://github.com/cirosantilli/conduit-bootstrap-template

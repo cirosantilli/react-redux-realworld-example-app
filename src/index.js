@@ -8,6 +8,9 @@ import { ConnectedRouter } from 'react-router-redux';
 
 import App from './components/App';
 
+// TODO uncomment https://github.com/gothinkster/conduit-bootstrap-template/issues/5#issuecomment-829104220
+//import './conduit-bootstrap-template/scss/style.scss'
+
 ReactDOM.render((
   <Provider store={store}>
     <ConnectedRouter history={history}>
